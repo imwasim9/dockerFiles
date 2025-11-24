@@ -1,4 +1,4 @@
-FROM cmd:v1
+FROM almalinux:9
 LABEL course="docker" \
       trainer="siva kumar" \
       trainee="wasim"
