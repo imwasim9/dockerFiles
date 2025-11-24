@@ -1,2 +1,2 @@
-From cmd:v1
+From nginx:v1
 EXPOSE 80/tcp
