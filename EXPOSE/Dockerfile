@@ -1,2 +1,2 @@
-From nginx:v1
+From almalinux:9
 EXPOSE 80/tcp
